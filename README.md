@@ -8,8 +8,8 @@ The backend is built in NOde.js using Express and Mongoose.
 
 
 ## View it live
-Frontend:
-https://eloquent-ramanujan-08dc24.netlify.app/
+(The API goes to sleep when not in use, please allow some time for it to wake up...) 
+Frontend: https://eloquent-ramanujan-08dc24.netlify.app/
 Backend:
 https://week20-auth-app.herokuapp.com/
 
